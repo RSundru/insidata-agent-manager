@@ -22,8 +22,8 @@ An enhanced SDK for the VAPI.AI platform, providing robust features for managing
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/windsurf-project.git
-cd windsurf-project
+git clone https://github.com/RSundru/insidata-agent-manager.git
+cd insidata-agent-manager
 
 # Install dependencies
 npm install
