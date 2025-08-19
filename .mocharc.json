@@ -1,0 +1,12 @@
+{
+  "extension": ["js"],
+  "timeout": 10000,
+  "recursive": true,
+  "exit": true,
+  "require": [
+    "@babel/register"
+  ],
+  "file": [
+    "test/setup.js"
+  ]
+}
